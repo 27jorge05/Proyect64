@@ -17,6 +17,7 @@ body{
     text-align: center;
     justify-content: center;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    color: white;
+    color: white ;
+    font-size: 50px;
     padding: 25px;
 }
